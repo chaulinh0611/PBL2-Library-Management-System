@@ -1,0 +1,1 @@
+g++ Book.cpp Borrower.cpp Common.cpp Manager.cpp main.cpp PersonnelData.cpp Teacher.cpp Student.cpp -o main.exe

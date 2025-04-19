@@ -1,0 +1,19 @@
+102230011:Tran Quang Dung:10302:Lap trinh C:Do Xuan Truong:1:2/1/2025:8/1/2025:12000:
+102230014:Nguyen Dinh Hien:10303:Canh khuya:Ho Chi Minh:2:2/1/2025:7/1/2025:20000:
+102230018:Ha Tran Khanh Huy:10304:One Piece:Eiichiro Oda:2:2/1/2025:9/1/2025:42000:
+102230022:Tran Trong Khiem:10305:Giao khoa dai hoc:Nhieu tac gia:2:2/1/2025:10/1/2025:32000:Da tra 1
+102230026:Nguyen Van Loi:10306:Atlas The gioi:National Geographic Society:2:2/1/2025:10/1/2025:32000:Da tra 2
+102230031:Ngo The Ngoc:10307:Lich su Chau Au:Norman Davies:1:2/1/2025:11/1/2025:18000:
+102230033:Nguyen Doan Nguyen:10308:Day thon Vi Da:Hanh Mac Tu:2:2/1/2025:12/1/2025:40000:
+102230035:Vo Thanh Nhan:10309:Tieu Nhan:Ly Da Ma:3:2/1/2025:13/1/2025:99000:
+102230036:Pham Van Minh Nhat:10310:Truyen Kieu:Nguyen Du:1:2/1/2025:14/1/2025:24000:Da tra 1
+102230036:Pham Van Minh Nhat:10311:Giai tich 1:Tran Van Hoa:1:3/1/2025:14/1/2025:22000:
+102230029:Le Tien Manh:10312:Thoi gian tuoi dep:Moc Phong:1:3/1/2025:10/1/2025:21000:
+102230029:Le Tien Manh:10312:Noi buon chien tranh:Bao Ninh:1:3/1/2025:12/1/2025:18000:
+102230013:Nguyen Thanh Hau:10314:Doi gio hu:Emily Bronte:2:3/1/2025:16/1/2025:78000:Da tra 2
+102230023:Nguyen Trung Kien:10315:Giai tich 1:Tran Van Hoa:2:3/1/2025:10/1/2025:28000:Da tra 1
+102230019:Ngo Van Huy:10316:Canh khuya:Ho Chi Minh:1:3/1/2025:12/1/2025:18000:
+102230056:Le Xuan Ba Vu:10317:Khoa hoc may tinh:Nguyen Van Quy:2:13/1/2025:15/1/2025:8000
+102230024:Do Ngoc Le:10318:Giai tich 1:Tran Van Hoa:1:3/1/2025:11/1/2025:16000
+102230030:Thai Nhat Minh:10319:Hong Lau Mong:Tao Tuyet Can:1:3/1/2025:14/1/2025:33000
+

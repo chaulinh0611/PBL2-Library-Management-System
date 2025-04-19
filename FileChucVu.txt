@@ -1,0 +1,56 @@
+Quan ly:Nguyen Chau Linh:102230025:11062005
+Quan ly:Tran Thi Thuy Tien:102230050:23072005
+Giang vien:Tran Thi Thanh Phuong:102230041:102230041
+Giang vien:Huynh Doan Thanh Tuyen:102230054:102230054
+Giang vien:Nguyen Nang Hung Van:111111111:111111111
+Sinh vien:Nguyen Van An:102230001:102230001
+Sinh vien:Duong Tung Bach:102230002:102230002
+Sinh vien:Nguyen Huu Duy Bao:102230003:102230003
+Sinh vien:Nguyen Minh Thai Binh:102230004:102230004
+Sinh vien:Tran Thi Binh:102230005:102230005
+Sinh vien:Le Thi Chinh:102230006:102230006
+Sinh vien:Vo Van Cuong:102230007:102230007
+Sinh vien:Nguyen Tan Dat:102230008:102230008
+Sinh vien:Truong Quang Dat:102230009:102230009
+Sinh vien:Tran Anh Duc:102230010:102230010
+Sinh vien:Tran Quang Dung:102230011:102230011
+Sinh vien:Huynh Truong Thao Duyen:102230012:102230012
+Sinh vien:Nguyen Thanh Hau:102230013:102230013
+Sinh vien:Nguyen Dinh Hien:102230014:102230014
+Sinh vien:Phan Minh Hieu:102230015:102230015
+Sinh vien:Phan Dinh Hoi:102230016:102230016
+Sinh vien:Ho Dang Hung:102230017:102230017
+Sinh vien:Ha Tran Khanh Huy:102230018:102230018
+Sinh vien:Ngo Van Huy:102230019:102230019
+Sinh vien:Le Duc Huynh:102230020:102230020
+Sinh vien:Le Dang Khanh:102230021:102230021
+Sinh vien:Tran Trong Khiem:102230022:102230022
+Sinh vien:Nguyen Trung Kien:102230023:102230023
+Sinh vien:Do Ngoc Le:102230024:102230024
+Sinh vien:Nguyen Van Loi:102230026:102230026
+Sinh vien:Tran Duc Long:102230027:102230027
+Sinh vien:Nguyen Huu Hoang Luan:102230028:102230028
+Sinh vien:Le Tien Manh:102230029:102230029
+Sinh vien:Thai Nhat Minh:102230030:102230030
+Sinh vien:Ngo The Ngoc:102230031:102230031
+Sinh vien:Phan Thi Nhu Ngoc:102230032:102230032
+Sinh vien:Nguyen Doan Nguyen:102230033:102230033
+Sinh vien:Huynh Nhu Bao Nhan:102230034:102230034
+Sinh vien:Vo Thanh Nhan:102230035:102230035
+Sinh vien:Pham Van Minh Nhat:102230036:102230036
+Sinh vien:Tran Minh Nhat:102230037:102230037
+Sinh vien:Bui Duc Minh Phu:102230038:102230038
+Sinh vien:Nguyen Bao Phuc:102230039:102230039
+Sinh vien:Tran Kiem Phuc:102230040:102230040
+Sinh vien:Dao Minh Anh Quan:102230042:102230042
+Sinh vien:Dinh Ngoc Quoc:102230043:102230043
+Sinh vien:Dang Quang Son:102230044:102230044
+Sinh vien:Hua Van Tan:102230045:102230045
+Sinh vien:Nguyen Do Thang:102230046:102230046
+Sinh vien:Pham Phu Thanh:102230047:102230047
+Sinh vien:Tran Hong Thao:102230048:102230048
+Sinh vien:Mai Phuc Thinh:102230049:102230049
+Sinh vien:Thi Nguyen Thanh Truc:102230052:102230052
+Sinh vien:Ngo Van Khong Tu:102230053:102230053
+Sinh vien:Ton That Van:102230055:102230055
+Sinh vien:Le Xuan Ba Vu:102230056:102230056
